@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_descripton_stack_items",
+  "info": {
+    "displayName": "stack_item",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
